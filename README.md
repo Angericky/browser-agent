@@ -158,7 +158,7 @@ See [docs/interaction-skills/](docs/interaction-skills/) for practical playbooks
     </td>
     <td align="center">
       <a href="https://angericky.github.io/">
-        <img src="https://images.weserv.nl/?url=https://i.loli.net/2019/01/07/5c336be8ba185.jpg&h=100&w=100&fit=cover&mask=circle&maxage=7d" width="100px;" alt="Jingjing Zhao"/>
+        <img src="https://i.ibb.co/Y4Yz77bn/Gemini-Generated-Image-58t7fv58t7fv58t7.png" width="100px;" alt="Jingjing Zhao"/>
       </a>
       <br />
       <sub><b>Jingjing Zhao</b></sub>
